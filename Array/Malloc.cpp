@@ -1,4 +1,5 @@
-// Online C compiler to run C program online
+// This code is allocating daynamic memory allocation using malloc
+
 #include <stdio.h>
 #include <stdlib.h>
 
